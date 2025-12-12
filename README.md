@@ -44,6 +44,9 @@ This project demonstrates the potential of AI-driven automation in database syst
 Serving as a foundation for intelligent database assistants, this project paves the way for advanced enterprise tools, multilingual support, voice-based interfaces, and scalable real-world data management solutions, contributing toward more accessible and intelligent human–computer interaction.
 
 ## Articles published / References
+
+```
 [1]  Y. Li and H. Jagadish, “Constructing SQL queries from natural language expressions,” in Proc. 19th IEEE Int. Conf. Data Eng. (ICDE), Bangalore, India, Mar. 2003, pp. 1–10.
 [2] J. Zhang, R. Li, and M. Zhang, “NL2SQL: A generic natural language interface for querying relational databases,” in Proc. 33rd AAAI Conf. Artif. Intell., Honolulu, HI, USA, Jan. 2019, pp. 5515–5522.
 [3] J. Wang, S. Xu, and Q. Chen, “Text-to-SQL generation using neural networks: A comprehensive review,” IEEE Access, vol. 8, pp. 43636–43652, Mar. 2020.
+```
